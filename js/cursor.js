@@ -127,6 +127,9 @@ class Cursor {
     CURSOR = new Cursor();
     // 需要重新获取列表时，使用 CURSOR.refresh()
 })();
+
+// 开启计时器
+window.onload = setInterval(changeColor, 1200);
 // new Vue({
 //     data: function () {
 //         this.$notify({
