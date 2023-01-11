@@ -12,12 +12,14 @@ WIDGET = {
     "alertIconSize": "18",
     "padding": "10px 10px 10px 10px",
     "shadow": "0",
-    "language": "zh",
+    "language": "auto",
     "borderRadius": "10",
-    "fixed": "false",
+    "fixed": "true",
     "vertical": "top",
     "horizontal": "left",
     "city": "CN101260409",
-    "key": "0717cbe446fa4744adb4f0e2037dcd60"
+    "left": "15",
+    "top": "50",
+    "key": "cd30317680a347748d9e67ea15e91873"
   }
 }
